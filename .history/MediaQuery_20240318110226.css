@@ -1,0 +1,28 @@
+@media (max-width: 488px) {
+  nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .navList {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .navList ul {
+    gap: 15px;
+  }
+  .navList ul li a {
+    font-size: 13px;
+  }
+  .landingPage {
+    flex-direction: column;
+  }
+  .textContainer h1 {
+    font-size: 50px;
+    font-weight: 900;
+    width: 50%;
+    line-height: 75px;
+  }
+  .textContainer p {
+    font-size: 22px;
+  }
+}

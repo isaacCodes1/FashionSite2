@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px ;
+}
+.navList {
+  display: flex;
+  gap: 30px;
+}
+.navList :nth-child(1) {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}

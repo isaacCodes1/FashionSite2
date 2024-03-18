@@ -1,0 +1,10 @@
+@media (max-width: 488px) {
+  nav {
+    flex-direction: column;
+    gap: ;
+  }
+  .navList {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

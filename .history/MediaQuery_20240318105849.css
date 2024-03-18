@@ -1,0 +1,19 @@
+@media (max-width: 488px) {
+  nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .navList {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .navList ul {
+    gap: 10px;
+  }
+  .navList ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: 500;
+  }
+}

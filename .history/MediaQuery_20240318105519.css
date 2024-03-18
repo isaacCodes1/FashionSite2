@@ -1,0 +1,10 @@
+@media (max-width: 488px) {
+    nav {
+        display: flex;
+        flex-direction: c;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 20px 40px;
+      }
+}

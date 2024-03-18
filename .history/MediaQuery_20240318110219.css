@@ -1,0 +1,19 @@
+@media (max-width: 488px) {
+  nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .navList {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .navList ul {
+    gap: 15px;
+  }
+  .navList ul li a {
+    font-size: 13px;
+  }
+  .landingPage {
+    flex-direction: column;
+  }
+}
